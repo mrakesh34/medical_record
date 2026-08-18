@@ -1,0 +1,14 @@
+Lakeside Family Practice
+Progress Note
+
+Medical Record Number: 719044
+DOB: 1990-11-23
+Date of Service: 01/15/2026
+
+Chief Complaint: Annual physical exam.
+
+Patient is a 35-year-old female here for annual wellness visit. No
+acute concerns. Reviewed vaccination history and updated as needed.
+
+Assessment: Healthy adult, routine exam.
+Plan: Labs ordered. Return in one year or sooner if concerns arise.

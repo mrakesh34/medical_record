@@ -1,0 +1,14 @@
+Hillcrest Pediatrics
+Well Visit Note
+
+mrn:    558102
+dob:  05/19/2015
+date of service:   01/22/2026
+
+Chief Complaint: Well-child visit, age 10.
+
+Patient is growing well, meeting developmental milestones. Immunizations
+up to date. No concerns reported by parent.
+
+Assessment: Healthy child, routine visit.
+Plan: Continue routine care. Next well visit in 12 months.

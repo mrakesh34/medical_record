@@ -1,0 +1,13 @@
+Mercy Community Clinic
+Patient Note
+
+DOB: 12/30/1998
+Date of Service: 01/20/2026
+
+Chief Complaint: Sore throat and low-grade fever for three days.
+
+Patient reports difficulty swallowing and mild fatigue. No cough.
+Throat exam shows mild erythema without exudate.
+
+Assessment: Viral pharyngitis, likely.
+Plan: Supportive care, rest, fluids. Return if symptoms worsen after 5 days.

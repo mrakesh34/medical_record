@@ -1,0 +1,14 @@
+Riverside Medical Group
+Clinical Note
+
+MRN #661523
+Date of Birth: March 2, 1981
+DOS: 01/12/2026
+
+Chief Complaint: Persistent cough for two weeks.
+
+Patient reports a dry cough without fever. No shortness of breath.
+Lungs clear on auscultation bilaterally.
+
+Assessment: Post-viral cough.
+Plan: Supportive care, follow up if symptoms persist beyond one week.

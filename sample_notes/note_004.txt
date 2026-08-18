@@ -1,0 +1,15 @@
+Oakwood Urgent Care
+Visit Note
+
+MRN: 305827
+DOB: 07/09/1955
+Date of Service: 01/18/2026
+
+Chief Complaint: Knee pain following a fall.
+
+Patient reports falling on 01/16/2026 while walking down stairs at home.
+Since the fall, he has had pain and mild swelling in the right knee.
+No prior history of knee injury. Denies numbness or tingling.
+
+Assessment: Knee contusion, likely soft tissue injury.
+Plan: X-ray ordered to rule out fracture. Ice and elevation advised.

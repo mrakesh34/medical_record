@@ -1,0 +1,14 @@
+Springfield General Hospital
+Patient Note
+
+MRN: 482910
+DOB: 03/14/1967
+Date of Service: 01/09/2026
+
+Chief Complaint: Follow-up for hypertension management.
+
+The patient is a 58-year-old male presenting for routine follow-up.
+Blood pressure well controlled on current regimen. No new complaints.
+
+Assessment: Hypertension, controlled.
+Plan: Continue current medications. Return in 3 months.
