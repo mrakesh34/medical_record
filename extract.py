@@ -4,9 +4,9 @@ import csv
 from pathlib import Path
 from datetime import datetime
 
-print (dir(csv))
-import re
-print(re.__file__)
+# print (dir(csv))
+# import re
+# print(re.__file__)
 
 
 NOTES_DIR = Path("sample_notes")
